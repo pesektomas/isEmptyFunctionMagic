@@ -1,0 +1,12 @@
+{
+    "name": "tomas/is-empty-function-magic",
+    "authors": [
+        {
+            "name": "Tomas Pesek",
+            "email": "tomas.pesek@shopsys.com"
+        }
+    ],
+    "require": {
+        "nette/tester": "^2.2"
+    }
+}
